@@ -1,4 +1,4 @@
-# routing_practice_app
+# ROUTING PRACTICING
 
 PRACTICING ROUTING IN FLUTTER.
 
@@ -7,6 +7,8 @@ PRACTICING ROUTING IN FLUTTER.
 This project is a starting point for a Flutter application mainly focusing on routing.
 
 <img width="190" alt="image" src="https://github.com/user-attachments/assets/147514c6-4aa8-4f6c-809a-ef67a7ee7e6e">
+<br>
+<br>
 <img width="190" alt="image" src="https://github.com/user-attachments/assets/b95b7e6e-aeb8-4702-baf6-3951b9e34a53">
 
 
