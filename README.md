@@ -1,10 +1,13 @@
 # routing_practice_app
 
-A new Flutter project.
+PRACTICING ROUTING IN FLUTTER.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application mainly focusing on routing.
+
+<img width="190" alt="image" src="https://github.com/user-attachments/assets/147514c6-4aa8-4f6c-809a-ef67a7ee7e6e">
+
 
 A few resources to get you started if this is your first Flutter project:
 
